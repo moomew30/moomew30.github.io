@@ -150,4 +150,72 @@ footer {
     background-color: var(--discord-black);
     color: var(--text-gray);
     font-size: 0.8rem;
+
+}
+@media (max-width: 768px) {
+    .navbar {
+        padding: 1rem 5%;
+    }
+
+    /* ซ่อนเมนูเดิมและเปลี่ยนเป็นเมนูแนวตั้ง */
+    .nav-links {
+        position: fixed;
+        right: -100%; /* ซ่อนไว้ทางขวา */
+        top: 70px;
+        flex-direction: column;
+        background-color: var(--discord-black);
+        width: 100%;
+        height: calc(100vh - 70px);
+        text-align: center;
+        transition: 0.3s;
+        padding-top: 50px;
+    }
+
+    .nav-links.active {
+        right: 0; /* เลื่อนออกมาเมื่อกดเปิด */
+    }
+
+    .nav-links li {
+        margin: 20px 0;
+    }
+
+    /* สร้างปุ่ม Hamburger (ขีด 3 ขีด) */
+    .menu-toggle {
+        display: block;
+        cursor: pointer;
+    }
+
+    .menu-toggle span {
+        display: block;
+        width: 25px;
+        height: 3px;
+        background-color: var(--text-white);
+        margin: 5px;
+        transition: 0.3s;
+    }
+
+    /* ปรับขนาดตัวอักษร Hero */
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+
+    /* ปรับ Discord Card ให้แสดงผลเต็มหน้าจอในมือถือ */
+    .discord-list {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* สำหรับหน้าจอใหญ่พิเศษ */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+}
+
+/* ซ่อน Hamburger ในหน้าจอคอมพิวเตอร์ */
+@media (min-width: 769px) {
+    .menu-toggle {
+        display: none;
+    }
 }
