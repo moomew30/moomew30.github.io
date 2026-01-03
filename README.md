@@ -6,7 +6,7 @@
     <title>เว็บร้านค้า</title>
 </head>
 <body style="background-color: black;">
-    <h1>
+    <h1 style="color: white;">
         ไอเหี้ยไนท์!
     </h1>
 </body>
