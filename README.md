@@ -8,7 +8,7 @@
 </head>
 <body>
     <nav class="navbar">
-        <div class="logo">DISCORD PROMO</div>
+        <div class="logo">Discordของข้าพเจ้า</div>
         <ul class="nav-links">
             <li><a href="#">หน้าหลัก</a></li>
             <li><a href="#">เกี่ยวกับเรา</a></li>
@@ -25,7 +25,7 @@
             <div class="discord-card">
                 <div class="card-icon">G</div>
                 <div class="card-info">
-                    <h3>Gaming Hub TH</h3>
+                    <h3>ห้องครัวคุณไนท์</h3>
                     <p>กลุ่มพูดคุยเรื่องเกมและหาเพื่อนเล่นเกมทุกแนว</p>
                     <a href="#" class="btn-invite">เข้าร่วมเซิร์ฟเวอร์</a>
                 </div>
