@@ -33,9 +33,9 @@
             <div class="discord-card">
                 <div class="card-icon">S</div>
                 <div class="card-info">
-                    <h3>Study Group</h3>
+                    <h3>เซิฟเวอร์ในเครือ</h3>
                     <p>ห้องสมุดออนไลน์สำหรับการติวหนังสือและแลกเปลี่ยนความรู้</p>
-                    <a href="#" class="btn-invite">เข้าร่วมเซิร์ฟเวอร์</a>
+                    <a href="#" class="btn-invite">ยังไม่มี</a>
                 </div>
             </div>
         </section>
