@@ -27,7 +27,7 @@
                 <div class="card-info">
                     <h3>ห้องครัวคุณไนท์</h3>
                     <p>กลุ่มพูดคุยเรื่องเกมและหาเพื่อนเล่นเกมทุกแนว</p>
-                    <a href="#" class="btn-invite">เข้าร่วมเซิร์ฟเวอร์</a>
+                    <a href="https://discord.gg/Vyvp8AqSr3" class="btn-invite">เข้าร่วมเซิร์ฟเวอร์</a>
                 </div>
             </div>
             <div class="discord-card">
