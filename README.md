@@ -7,7 +7,7 @@
 </head>
 <body style="background-color: black;">
     <h1 style="color: white; font-size: 100px;">
-        ไอเหี้ยไนท์!
+        Discord ของข้าพเจ้า
     </h1>
     <div>
         <iframe src="https://discord.com/widget?id=1396743649848590346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
