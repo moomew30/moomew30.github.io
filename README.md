@@ -8,14 +8,19 @@
 </head>
 <body>
     <nav class="navbar">
-        <div class="logo">Discordของข้าพเจ้า</div>
-        <ul class="nav-links">
-            <li><a href="#">หน้าหลัก</a></li>
-            <li><a href="#">เกี่ยวกับเรา</a></li>
-            <li><a href="#">ติดต่อเรา</a></li>
-            <li><a href="#" class="btn-login">ล็อกอิน</a></li>
-        </ul>
-    </nav>
+    <div class="logo">Discordของข้าพเจ้า</div>
+    <div class="menu-toggle" id="mobile-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <ul class="nav-links">
+        <li><a href="#">หน้าหลัก</a></li>
+        <li><a href="#">เกี่ยวกับเรา</a></li>
+        <li><a href="#">ติดต่อเรา</a></li>
+        <li><a href="#" class="btn-login">ล็อกอิน</a></li>
+    </ul>
+</nav>
     <main class="container">
         <header class="hero">
             <h1>อยู่ระหว่างการพัฒนา</h1>
