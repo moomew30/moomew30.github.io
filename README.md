@@ -18,7 +18,7 @@
     </nav>
     <main class="container">
         <header class="hero">
-            <h1>ค้นพบชุมชนที่น่าสนใจ</h1>
+            <h1>อยู่ระหว่างการพัฒนา</h1>
             <p>รวมรวม Discord Server คุณภาพที่คัดสรรมาเพื่อคุณ</p>
         </header>
         <section class="discord-list">
